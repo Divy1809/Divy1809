@@ -1,5 +1,5 @@
-# 💫 About Me:
-💫Myself Divy:<br><br>👨‍💻AIML Engineer to Train models | Full Stack Developer to Deploy dreams<br>🛜Working on my own startup<br>📚SRM'27<br>🤝Open for Collaboration and Open-source Contributions<br>
+# 💫 Myself Divy:
+<br><br>👨‍💻AIML Engineer to Train models | Full Stack Developer to Deploy dreams<br>🛜Working on my own startup<br>📚SRM'27<br>🤝Open for Collaboration and Open-source Contributions<br>
 
 
 ## 🌐 Socials:
